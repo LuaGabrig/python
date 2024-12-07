@@ -1,0 +1,17 @@
+#myHeader {
+    background-color: rgb(37, 86, 102);
+    color: rgb(221, 43, 43);
+    padding: 40px;
+    text-align: center;
+  }
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-color: bisque;
+    padding-left: 40px;
+    text-align: center;
+    width: auto;
+}
