@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+    width: 940px;
+    background-color: rgb(224,223,890);
+
+}
+
+h1{
+    color: rgb(172, 90, 219);
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+h2{
+    color:rgb(92, 14, 182)
+}
+
+p::first-line{
+    color: rgb(34, 51, 202);
+    text-transform: uppercase;
+}
+
+section p{
+    font-family:'Courier New', Courier, monospace;
+    color: black;
+    text-align: justify;
+}
+
+section article p{
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:brown
+}
+
+footer{
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blueviolet;
+
+
+}
+
+footer ul{
+    color:black;
+    list-style-type: square;
+}
+
+footer ul li a{
+    text-decoration: none;
+
+}
+
+footer ul li :hover{
+    color:rgb(231, 27, 146);
+    font-size: 1em;
+}
+
+footer ul li a:hover{
+    color:rgb(87, 7, 119);
+    font-size: 1.3em;
+}
+
+footer ul li a:visited{
+    color:rgb(82, 18, 48)
+}

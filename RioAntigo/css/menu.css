@@ -1,0 +1,36 @@
+.hmenu{
+    background-color: rgb(251, 251, 253);
+    font-family: 'Playwrite HU', sans-serif;
+    text-align: center;
+}
+
+.hmenu ul{
+    list-style: none;
+    padding: 0px;
+
+}
+
+.hmenu ul li {
+    display: inline;
+}
+.hmenu ul li a{
+    color: blueviolet;
+    text-transform:unset;
+    text-decoration:solid;
+    padding: 20px;
+    display:inline-block;
+    
+}
+
+.hmenu ul li a:hover{
+    background-color: antiquewhite;
+    color: blueviolet;
+    text-decoration-line: underline;
+    text-decoration-color: brown;
+    text-decoration-style: wavy;
+}
+
+.hmenu ul li a:visited{
+    color: black;
+    font-family: fantasy;
+}
